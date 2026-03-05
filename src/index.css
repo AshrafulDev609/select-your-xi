@@ -1,2 +1,8 @@
 @import "tailwindcss";
 @plugin "daisyui";
+
+
+.banner {
+    background-color: black;
+    background-image: url('./assets/bg-shadow.png');
+}
